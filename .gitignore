@@ -1,0 +1,8 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.vscode/
+
+PROGRESS_REPORT_DRAFT.md

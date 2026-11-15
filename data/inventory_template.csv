@@ -1,0 +1,5 @@
+﻿source,owner,type,sensitivity,notes
+data/sample_documents/example.md,Training Team,Markdown,Public,Sample training document
+data/sample_documents/sample.html,Training Team,HTML,Public,Sample HTML document
+data/sample_documents/sample.docx,Training Team,DOCX,Internal,Sample Word document
+data/sample_documents/sample.pdf,Training Team,PDF,Internal,Sample PDF document
