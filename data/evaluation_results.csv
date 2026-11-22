@@ -1,0 +1,31 @@
+﻿question,expected_source,expected_rank,hit_at_1,hit_at_5,retrieved_sources
+Which programming language is known for readable syntax?,python.md,1,True,True,python.md; natural_language_processing.md; apis.md; data_analysis.md; artificial_intelligence.md
+What programming language is commonly used for automation and web development?,python.md,1,True,True,python.md; natural_language_processing.md; apis.md; artificial_intelligence.md; machine_learning.md
+Which programming paradigms does Python support?,python.md,1,True,True,python.md; data_analysis.md; apis.md; natural_language_processing.md; artificial_intelligence.md
+What is Artificial Intelligence?,artificial_intelligence.md,1,True,True,artificial_intelligence.md; machine_learning.md; deep_learning.md; natural_language_processing.md; python.md
+Which AI applications involve recognizing speech and classifying images?,artificial_intelligence.md,1,True,True,artificial_intelligence.md; natural_language_processing.md; deep_learning.md; machine_learning.md; data_analysis.md
+How can AI systems assist with decision-making?,artificial_intelligence.md,1,True,True,artificial_intelligence.md; machine_learning.md; natural_language_processing.md; apis.md; deep_learning.md
+What is Machine Learning?,machine_learning.md,1,True,True,machine_learning.md; artificial_intelligence.md; deep_learning.md; natural_language_processing.md; databases.md
+What are the three common types of machine learning?,machine_learning.md,1,True,True,machine_learning.md; deep_learning.md; artificial_intelligence.md; data_analysis.md; natural_language_processing.md
+How do computers learn patterns in machine learning?,machine_learning.md,1,True,True,machine_learning.md; artificial_intelligence.md; deep_learning.md; natural_language_processing.md; data_analysis.md
+What type of networks does deep learning use?,deep_learning.md,1,True,True,deep_learning.md; machine_learning.md; artificial_intelligence.md; natural_language_processing.md; cybersecurity.md
+Which tasks commonly use deep learning?,deep_learning.md,1,True,True,deep_learning.md; machine_learning.md; natural_language_processing.md; artificial_intelligence.md; data_analysis.md
+What does Natural Language Processing enable computers to do?,natural_language_processing.md,1,True,True,natural_language_processing.md; artificial_intelligence.md; deep_learning.md; machine_learning.md; python.md
+What are common applications of NLP?,natural_language_processing.md,1,True,True,natural_language_processing.md; artificial_intelligence.md; deep_learning.md; machine_learning.md; apis.md
+What is a database?,databases.md,1,True,True,databases.md; data_analysis.md; machine_learning.md; artificial_intelligence.md; deep_learning.md
+How do relational databases organize information?,databases.md,1,True,True,databases.md; data_analysis.md; natural_language_processing.md; artificial_intelligence.md; git_github.md
+Which language is commonly used to manage relational database records?,databases.md,1,True,True,databases.md; natural_language_processing.md; data_analysis.md; python.md; apis.md
+What is the purpose of an API?,apis.md,1,True,True,apis.md; natural_language_processing.md; artificial_intelligence.md; python.md; cloud_computing.md
+Which HTTP methods are commonly used by REST APIs?,apis.md,1,True,True,apis.md; cloud_computing.md; cybersecurity.md; software_testing.md; python.md
+What is Git used for?,git_github.md,1,True,True,git_github.md; cloud_computing.md; natural_language_processing.md; apis.md; databases.md
+What is GitHub used for?,git_github.md,1,True,True,git_github.md; apis.md; cloud_computing.md; cybersecurity.md; natural_language_processing.md
+Which Git commands are commonly used to manage source code changes?,git_github.md,1,True,True,git_github.md; cybersecurity.md; software_testing.md; python.md; apis.md
+What resources does cloud computing provide over the internet?,cloud_computing.md,1,True,True,cloud_computing.md; artificial_intelligence.md; cybersecurity.md; apis.md; machine_learning.md
+How does cloud computing help organizations manage infrastructure?,cloud_computing.md,1,True,True,cloud_computing.md; git_github.md; cybersecurity.md; artificial_intelligence.md; data_analysis.md
+What does cybersecurity protect?,cybersecurity.md,1,True,True,cybersecurity.md; artificial_intelligence.md; cloud_computing.md; machine_learning.md; deep_learning.md
+Which practices help protect computer systems and information?,cybersecurity.md,1,True,True,cybersecurity.md; cloud_computing.md; git_github.md; data_analysis.md; databases.md
+What are the main activities involved in data analysis?,data_analysis.md,1,True,True,data_analysis.md; databases.md; artificial_intelligence.md; cybersecurity.md; natural_language_processing.md
+Which Python libraries are commonly used for data analysis?,data_analysis.md,1,True,True,data_analysis.md; python.md; natural_language_processing.md; databases.md; apis.md
+What is the purpose of software testing?,software_testing.md,1,True,True,software_testing.md; apis.md; natural_language_processing.md; artificial_intelligence.md; data_analysis.md
+What is the difference between unit testing and integration testing?,software_testing.md,1,True,True,software_testing.md; apis.md; data_analysis.md; git_github.md; databases.md
+How do automated tests help software development?,software_testing.md,1,True,True,software_testing.md; artificial_intelligence.md; natural_language_processing.md; data_analysis.md; apis.md

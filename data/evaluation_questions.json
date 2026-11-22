@@ -1,0 +1,43 @@
+﻿[
+  {"question": "Which programming language is known for readable syntax?", "expected_source": "python.md"},
+  {"question": "What programming language is commonly used for automation and web development?", "expected_source": "python.md"},
+  {"question": "Which programming paradigms does Python support?", "expected_source": "python.md"},
+
+  {"question": "What is Artificial Intelligence?", "expected_source": "artificial_intelligence.md"},
+  {"question": "Which AI applications involve recognizing speech and classifying images?", "expected_source": "artificial_intelligence.md"},
+  {"question": "How can AI systems assist with decision-making?", "expected_source": "artificial_intelligence.md"},
+
+  {"question": "What is Machine Learning?", "expected_source": "machine_learning.md"},
+  {"question": "What are the three common types of machine learning?", "expected_source": "machine_learning.md"},
+  {"question": "How do computers learn patterns in machine learning?", "expected_source": "machine_learning.md"},
+
+  {"question": "What type of networks does deep learning use?", "expected_source": "deep_learning.md"},
+  {"question": "Which tasks commonly use deep learning?", "expected_source": "deep_learning.md"},
+
+  {"question": "What does Natural Language Processing enable computers to do?", "expected_source": "natural_language_processing.md"},
+  {"question": "What are common applications of NLP?", "expected_source": "natural_language_processing.md"},
+
+  {"question": "What is a database?", "expected_source": "databases.md"},
+  {"question": "How do relational databases organize information?", "expected_source": "databases.md"},
+  {"question": "Which language is commonly used to manage relational database records?", "expected_source": "databases.md"},
+
+  {"question": "What is the purpose of an API?", "expected_source": "apis.md"},
+  {"question": "Which HTTP methods are commonly used by REST APIs?", "expected_source": "apis.md"},
+
+  {"question": "What is Git used for?", "expected_source": "git_github.md"},
+  {"question": "What is GitHub used for?", "expected_source": "git_github.md"},
+  {"question": "Which Git commands are commonly used to manage source code changes?", "expected_source": "git_github.md"},
+
+  {"question": "What resources does cloud computing provide over the internet?", "expected_source": "cloud_computing.md"},
+  {"question": "How does cloud computing help organizations manage infrastructure?", "expected_source": "cloud_computing.md"},
+
+  {"question": "What does cybersecurity protect?", "expected_source": "cybersecurity.md"},
+  {"question": "Which practices help protect computer systems and information?", "expected_source": "cybersecurity.md"},
+
+  {"question": "What are the main activities involved in data analysis?", "expected_source": "data_analysis.md"},
+  {"question": "Which Python libraries are commonly used for data analysis?", "expected_source": "data_analysis.md"},
+
+  {"question": "What is the purpose of software testing?", "expected_source": "software_testing.md"},
+  {"question": "What is the difference between unit testing and integration testing?", "expected_source": "software_testing.md"},
+  {"question": "How do automated tests help software development?", "expected_source": "software_testing.md"}
+]
