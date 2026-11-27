@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Which programming language is known for readable syntax?",
+    "expected_source": "python.md",
+    "answer": "Python is known for its readable syntax [S1].",
+    "retrieved_sources": "python.md; natural_language_processing.md; apis.md; data_analysis.md; artificial_intelligence.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What programming language is commonly used for automation and web development?",
+    "expected_source": "python.md",
+    "answer": "Python is commonly used for automation and web development [S1].",
+    "retrieved_sources": "python.md; natural_language_processing.md; apis.md; artificial_intelligence.md; machine_learning.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which programming paradigms does Python support?",
+    "expected_source": "python.md",
+    "answer": "Python supports object-oriented, procedural, and functional programming [S1].",
+    "retrieved_sources": "python.md; data_analysis.md; apis.md; natural_language_processing.md; artificial_intelligence.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "expected_source": "artificial_intelligence.md",
+    "answer": "Artificial Intelligence (AI) is a field of computer science focused on creating systems that perform tasks requiring human-like intelligence [S1].",
+    "retrieved_sources": "artificial_intelligence.md; machine_learning.md; deep_learning.md; natural_language_processing.md; python.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which AI applications involve recognizing speech and classifying images?",
+    "expected_source": "artificial_intelligence.md",
+    "answer": "Based on the provided documents, common AI applications include speech recognition and image classification [S1].",
+    "retrieved_sources": "artificial_intelligence.md; natural_language_processing.md; deep_learning.md; machine_learning.md; data_analysis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "How can AI systems assist with decision-making?",
+    "expected_source": "artificial_intelligence.md",
+    "answer": "AI systems can assist with decision-making by analyzing information [S1].",
+    "retrieved_sources": "artificial_intelligence.md; machine_learning.md; natural_language_processing.md; apis.md; deep_learning.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is Machine Learning?",
+    "expected_source": "machine_learning.md",
+    "answer": "Machine Learning (ML) is a subset of artificial intelligence that allows computers to learn patterns from data and make predictions without being explicitly programmed for every task [S1].",
+    "retrieved_sources": "machine_learning.md; artificial_intelligence.md; deep_learning.md; natural_language_processing.md; databases.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What are the three common types of machine learning?",
+    "expected_source": "machine_learning.md",
+    "answer": "The three common types of machine learning are supervised learning, unsupervised learning, and reinforcement learning [S1].",
+    "retrieved_sources": "machine_learning.md; deep_learning.md; artificial_intelligence.md; data_analysis.md; natural_language_processing.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "How do computers learn patterns in machine learning?",
+    "expected_source": "machine_learning.md",
+    "answer": "In machine learning, computers learn patterns from data without being explicitly programmed for every task [S1].",
+    "retrieved_sources": "machine_learning.md; artificial_intelligence.md; deep_learning.md; natural_language_processing.md; data_analysis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What type of networks does deep learning use?",
+    "expected_source": "deep_learning.md",
+    "answer": "Deep learning uses neural networks with multiple layers [S1].",
+    "retrieved_sources": "deep_learning.md; machine_learning.md; artificial_intelligence.md; natural_language_processing.md; cybersecurity.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which tasks commonly use deep learning?",
+    "expected_source": "deep_learning.md",
+    "answer": "Deep learning is commonly used in image recognition, speech processing, and natural language processing [S1].",
+    "retrieved_sources": "deep_learning.md; machine_learning.md; natural_language_processing.md; artificial_intelligence.md; data_analysis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What does Natural Language Processing enable computers to do?",
+    "expected_source": "natural_language_processing.md",
+    "answer": "Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language [S1].",
+    "retrieved_sources": "natural_language_processing.md; artificial_intelligence.md; deep_learning.md; machine_learning.md; python.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What are common applications of NLP?",
+    "expected_source": "natural_language_processing.md",
+    "answer": "Common applications of Natural Language Processing (NLP) include chatbots, sentiment analysis, text summarization, and language translation [S1].",
+    "retrieved_sources": "natural_language_processing.md; artificial_intelligence.md; deep_learning.md; machine_learning.md; apis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is a database?",
+    "expected_source": "databases.md",
+    "answer": "A database is an organized collection of information [S1].",
+    "retrieved_sources": "databases.md; data_analysis.md; machine_learning.md; artificial_intelligence.md; deep_learning.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "How do relational databases organize information?",
+    "expected_source": "databases.md",
+    "answer": "Relational databases store data in tables containing rows and columns [S1].",
+    "retrieved_sources": "databases.md; data_analysis.md; natural_language_processing.md; artificial_intelligence.md; git_github.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which language is commonly used to manage relational database records?",
+    "expected_source": "databases.md",
+    "answer": "SQL is commonly used to create, read, update, and delete relational database records [S1].",
+    "retrieved_sources": "databases.md; natural_language_processing.md; data_analysis.md; python.md; apis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is the purpose of an API?",
+    "expected_source": "apis.md",
+    "answer": "The purpose of an Application Programming Interface (API) is to allow different software applications to communicate, connect applications, and share data [S1].",
+    "retrieved_sources": "apis.md; natural_language_processing.md; artificial_intelligence.md; python.md; cloud_computing.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which HTTP methods are commonly used by REST APIs?",
+    "expected_source": "apis.md",
+    "answer": "REST APIs commonly use HTTP methods such as GET, POST, PUT, and DELETE [S1].",
+    "retrieved_sources": "apis.md; cloud_computing.md; cybersecurity.md; software_testing.md; python.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is Git used for?",
+    "expected_source": "git_github.md",
+    "answer": "Git is a version control system used to track changes in source code [S1]. Version control also helps developers manage changes to their projects [S1].",
+    "retrieved_sources": "git_github.md; cloud_computing.md; natural_language_processing.md; apis.md; databases.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is GitHub used for?",
+    "expected_source": "git_github.md",
+    "answer": "GitHub is used as a platform for hosting Git repositories and collaborating with other developers [S1].",
+    "retrieved_sources": "git_github.md; apis.md; cloud_computing.md; cybersecurity.md; natural_language_processing.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which Git commands are commonly used to manage source code changes?",
+    "expected_source": "git_github.md",
+    "answer": "Common Git commands include `init`, `add`, `commit`, `push`, and `pull` [S1].",
+    "retrieved_sources": "git_github.md; cybersecurity.md; software_testing.md; python.md; apis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What resources does cloud computing provide over the internet?",
+    "expected_source": "cloud_computing.md",
+    "answer": "Cloud computing provides computing resources such as storage, servers, and databases over the internet [S1].",
+    "retrieved_sources": "cloud_computing.md; artificial_intelligence.md; cybersecurity.md; apis.md; machine_learning.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "How does cloud computing help organizations manage infrastructure?",
+    "expected_source": "cloud_computing.md",
+    "answer": "Cloud computing allows organizations to use computing resources without needing to maintain all of their own physical infrastructure.",
+    "retrieved_sources": "cloud_computing.md; git_github.md; cybersecurity.md; artificial_intelligence.md; data_analysis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What does cybersecurity protect?",
+    "expected_source": "cybersecurity.md",
+    "answer": "Cybersecurity protects computer systems, networks, and data from unauthorized access and attacks [S1].",
+    "retrieved_sources": "cybersecurity.md; artificial_intelligence.md; cloud_computing.md; machine_learning.md; deep_learning.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which practices help protect computer systems and information?",
+    "expected_source": "cybersecurity.md",
+    "answer": "Common practices that help protect computer systems and information include strong passwords, software updates, access control, and data backups [S1].",
+    "retrieved_sources": "cybersecurity.md; cloud_computing.md; git_github.md; data_analysis.md; databases.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What are the main activities involved in data analysis?",
+    "expected_source": "data_analysis.md",
+    "answer": "The main activities involved in data analysis are inspecting, cleaning, transforming, and interpreting data [S1].",
+    "retrieved_sources": "data_analysis.md; databases.md; artificial_intelligence.md; cybersecurity.md; natural_language_processing.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "Which Python libraries are commonly used for data analysis?",
+    "expected_source": "data_analysis.md",
+    "answer": "Based on the provided documents, pandas and NumPy are Python libraries commonly used for data analysis [S1].",
+    "retrieved_sources": "data_analysis.md; python.md; natural_language_processing.md; databases.md; apis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is the purpose of software testing?",
+    "expected_source": "software_testing.md",
+    "answer": "The purpose of software testing is to check whether an application behaves as expected [S1].",
+    "retrieved_sources": "software_testing.md; apis.md; natural_language_processing.md; artificial_intelligence.md; data_analysis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "What is the difference between unit testing and integration testing?",
+    "expected_source": "software_testing.md",
+    "answer": "Unit testing checks individual components, whereas integration testing checks whether multiple components work together [S1].",
+    "retrieved_sources": "software_testing.md; apis.md; data_analysis.md; git_github.md; databases.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  },
+  {
+    "question": "How do automated tests help software development?",
+    "expected_source": "software_testing.md",
+    "answer": "Automated tests help identify problems consistently [S1].",
+    "retrieved_sources": "software_testing.md; artificial_intelligence.md; natural_language_processing.md; data_analysis.md; apis.md",
+    "expected_source_retrieved": true,
+    "abstained": false,
+    "error": ""
+  }
+]
